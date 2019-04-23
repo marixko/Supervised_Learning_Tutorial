@@ -10,3 +10,12 @@ In this tutorial we will perform a STAR/GALAXY separation using a real dataset f
 - Classification methods with `sklearn`
 
 Have fun!
+
+
+## How to run:
+
+1. Open Google Colab: https://colab.research.google.com/notebooks/welcome.ipynb
+2. Go to File > Open Notebook
+3. Select the GITHUB tab
+4. Enter this address https://github.com/marixko/Supervised_Learning_Tutorial.git
+5. It will show the .ipynb file, click the "Open notebook in a new tab" icon and you are set!
