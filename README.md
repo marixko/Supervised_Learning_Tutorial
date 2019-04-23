@@ -18,4 +18,4 @@ Have fun!
 2. Go to File > Open Notebook
 3. Select the GITHUB tab
 4. Enter this address https://github.com/marixko/Supervised_Learning_Tutorial.git
-5. It will show the .ipynb file, click the "Open notebook in a new tab" icon and you are set!
+5. It will show you the .ipynb file, click the "Open notebook in a new tab" icon and you are set!
