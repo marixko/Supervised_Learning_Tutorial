@@ -19,3 +19,8 @@ Have fun!
 3. Select the GITHUB tab
 4. Enter this address https://github.com/marixko/Supervised_Learning_Tutorial.git
 5. It will show you the .ipynb file, click the "Open notebook in a new tab" icon and you are set!
+
+or
+
+1. Click in the .ipynb file listed above
+2. A new page will open and click in "Open in Colab" button
